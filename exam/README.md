@@ -61,5 +61,21 @@
 ![53](https://github.com/mireashik/oop_2sem/assets/123753819/0989ac4d-fc4d-4851-bead-ab765cd95869)
 ![54](https://github.com/mireashik/oop_2sem/assets/123753819/d6cab7e9-1971-4014-8714-7c0221b62bf3)
 ![55](https://github.com/mireashik/oop_2sem/assets/123753819/278805a8-7152-4a76-a71b-985ad4e628fb)
+![56](https://github.com/mireashik/oop_2sem/assets/123753819/ef552601-8139-417f-8725-38c8ecee0c39)
+![57](https://github.com/mireashik/oop_2sem/assets/123753819/50c3320a-981e-472c-8a03-1777bf870e3c)
+![58](https://github.com/mireashik/oop_2sem/assets/123753819/30abd802-d631-4d30-bd78-9c5a92c86d50)
+![59](https://github.com/mireashik/oop_2sem/assets/123753819/e6755aef-2b64-4b0b-8b28-71c8a9fe1cdd)
+![60](https://github.com/mireashik/oop_2sem/assets/123753819/9dac7cf8-c4f3-4eb6-9b9d-c5ad86ccc59a)
+![61](https://github.com/mireashik/oop_2sem/assets/123753819/dd81d8b3-2d5e-437b-b366-be811db72e3f)
+![62](https://github.com/mireashik/oop_2sem/assets/123753819/ce182119-db4e-4b64-aced-25b92404f220)
+![63](https://github.com/mireashik/oop_2sem/assets/123753819/030332c6-79e5-4ffd-8cba-3cccdb54e267)
+![64](https://github.com/mireashik/oop_2sem/assets/123753819/8fa46cc8-2514-4978-a7a0-bb5e34607b46)
+![65](https://github.com/mireashik/oop_2sem/assets/123753819/ef5aec72-7709-47c2-b990-1e8dfc9fd7ae)
+![67](https://github.com/mireashik/oop_2sem/assets/123753819/113708e1-17b8-4ff6-af08-3ffdc9601301)
+![68](https://github.com/mireashik/oop_2sem/assets/123753819/2660afea-a6d7-4538-8555-974957ece4da)
+![69](https://github.com/mireashik/oop_2sem/assets/123753819/e451d7aa-0115-4406-91f4-709dc6dbc233)
+![71](https://github.com/mireashik/oop_2sem/assets/123753819/67495f1f-6921-47db-995a-72f08c4bd23f)
+![72](https://github.com/mireashik/oop_2sem/assets/123753819/bcfd6276-bb80-4280-a39f-c41972117a92)
+![73](https://github.com/mireashik/oop_2sem/assets/123753819/3ca57a03-4966-44a9-a357-d6a45e213fb3)
 
-
+# Практика
