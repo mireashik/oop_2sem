@@ -46,7 +46,7 @@
 ![37](https://github.com/mireashik/oop_2sem/assets/123753819/48962adb-e662-4a80-a285-7715b35dd487)
 ![38](https://github.com/mireashik/oop_2sem/assets/123753819/a8664076-185c-4236-8e6c-2e5092410f57)
 ![39](https://github.com/mireashik/oop_2sem/assets/123753819/5983300b-d41b-4595-b1ae-316f9f82cfa2)
-![40](https://github.com/mireashik/oop_2sem/assets/123753819/80d88ae8-d4eb-443f-8449-04899e57b601)
+![40](https://github.com/mireashik/oop_2sem/assets/123753819/0a9c2d4d-794a-4922-9e79-a48b76d58986)
 ![41](https://github.com/mireashik/oop_2sem/assets/123753819/fcbb1ca0-7b35-4ced-98a1-dce8631b7c5d)
 ![42](https://github.com/mireashik/oop_2sem/assets/123753819/df0b0b78-5b21-4aaa-a308-31ddac82d9b0)
 ![43](https://github.com/mireashik/oop_2sem/assets/123753819/3327a53d-3a4c-4e77-ad0a-d1c3dcde557f)
@@ -81,3 +81,9 @@
 
 # Практика
 ![74](https://github.com/mireashik/oop_2sem/assets/123753819/a05d6403-bdc7-4fd8-ba09-d187f8388604)
+![75](https://github.com/mireashik/oop_2sem/assets/123753819/7dcc2a2e-b434-475c-ab19-a3677f3065a3)
+![76](https://github.com/mireashik/oop_2sem/assets/123753819/eac7faed-5cfc-419b-8213-07489bb2e54b)
+![77](https://github.com/mireashik/oop_2sem/assets/123753819/c1fe4210-feda-4dd1-baa3-71928339c0d4)
+![78](https://github.com/mireashik/oop_2sem/assets/123753819/088b0569-8ae0-440e-901b-307aa808dbf9)
+
+
