@@ -1,6 +1,7 @@
 ### Огромное спасибо
 - https://github.com/vyragosa/OOP-exam-questions
 - https://github.com/po4yka/university-notes/blob/master/2%20course/%D0%9E%D0%9E%D0%9F/theory.md
+- https://drive.google.com/file/d/1vVSHTY6vrBenuqdAqJpRjcaCi7CkPXAS/view
 
 # Теория
 ![1](https://github.com/mireashik/oop_2sem/assets/123753819/0b440725-8b62-4f56-9e36-7d4ddd3717a7)
@@ -79,3 +80,4 @@
 ![73](https://github.com/mireashik/oop_2sem/assets/123753819/3ca57a03-4966-44a9-a357-d6a45e213fb3)
 
 # Практика
+![74](https://github.com/mireashik/oop_2sem/assets/123753819/a05d6403-bdc7-4fd8-ba09-d187f8388604)
