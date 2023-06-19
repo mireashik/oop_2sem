@@ -216,7 +216,6 @@ public:
 pb -> f();
 ```
 
-![7](https://github.com/mireashik/oop_2sem/assets/123753819/364f67b7-102c-41c2-9128-a329f34e7141)
 ![8](https://github.com/mireashik/oop_2sem/assets/123753819/eb1b1099-63ea-4d55-92ca-f1dd4492369e)
 ![9](https://github.com/mireashik/oop_2sem/assets/123753819/d530da4e-3715-4a28-9fdb-0fbec67cbe43)
 ![10](https://github.com/mireashik/oop_2sem/assets/123753819/379cfda9-b559-4dfc-823a-9dc0d664131a)
