@@ -566,7 +566,9 @@ vector <string>::iterator vect
 
 Операции +=, -=, +, -, <, <=, >, >= и <=> поддерживаются только итераторами произвольного доступа (итераторы контейнеров std::vector, array и deque)
 
-![26](https://github.com/mireashik/oop_2sem/assets/123753819/6da85700-bde0-45d0-9ab4-0ab50563671b)
+## 26. Контейнер – динамический массив.
+> **Note**: АНАЛОГИЧНО ТЕМЕ В БИЛЕТЕ 20. Класс vector.
+
 ![27](https://github.com/mireashik/oop_2sem/assets/123753819/9fc23cfb-0ab7-43c2-be24-6e2d18fba19f)
 ![28](https://github.com/mireashik/oop_2sem/assets/123753819/41537064-bd1d-4f3f-9c25-48114e428b25)
 ![29](https://github.com/mireashik/oop_2sem/assets/123753819/c3c9096e-c29f-43c9-b66f-793f8b16fc5d)
