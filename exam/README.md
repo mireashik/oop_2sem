@@ -107,6 +107,9 @@
 ![98](https://github.com/mireashik/oop_2sem/assets/123753819/59cb2ff4-0db2-463a-ba9c-f3f38de5a647)
 ![99](https://github.com/mireashik/oop_2sem/assets/123753819/2bc44d81-965c-45b7-9881-e2157b01a6ea)
 ![100](https://github.com/mireashik/oop_2sem/assets/123753819/6e58ecf6-c3a0-47fd-a9fa-a7103aaad978)
+![101](https://github.com/mireashik/oop_2sem/assets/123753819/494534ab-4e06-40fc-b8c0-691c757fc321)
+![102](https://github.com/mireashik/oop_2sem/assets/123753819/86446318-eb35-47e1-831c-0e6154115ee5)
+![103](https://github.com/mireashik/oop_2sem/assets/123753819/0b8361d3-d05f-44af-b88c-56401f5086c8)
 
 
 
