@@ -2,6 +2,7 @@
 - https://github.com/vyragosa/OOP-exam-questions
 - https://github.com/po4yka/university-notes/blob/master/2%20course/%D0%9E%D0%9E%D0%9F/theory.md
 - https://drive.google.com/file/d/1vVSHTY6vrBenuqdAqJpRjcaCi7CkPXAS/view
+- https://github.com/fadyat/ITMO-PROBLEMS/blob/master/OOP/III%20semester/Test/tickets-OOP.md
 
 <details><summary><h3> Списки вопросов экзамена</h3></summary>
 
