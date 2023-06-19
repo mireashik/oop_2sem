@@ -98,6 +98,13 @@
 ![89](https://github.com/mireashik/oop_2sem/assets/123753819/6e7b6b40-c685-4219-921b-c7c782ca1137)
 ![90](https://github.com/mireashik/oop_2sem/assets/123753819/c30f8605-4ce2-4a0b-914a-52aa4a2c121f)
 ![91](https://github.com/mireashik/oop_2sem/assets/123753819/cf2b2dec-0a31-44dc-b0e7-7a43d65c1a6a)
+![92](https://github.com/mireashik/oop_2sem/assets/123753819/fe74e4c0-57b4-4fba-8a5d-596243682f0c)
+![93](https://github.com/mireashik/oop_2sem/assets/123753819/6c8847dc-30be-4c11-bd89-e7e84a6812e3)
+![94](https://github.com/mireashik/oop_2sem/assets/123753819/d273575d-3059-4b93-baae-2804f532d0ee)
+![95](https://github.com/mireashik/oop_2sem/assets/123753819/39aad470-1c73-44c4-8ccd-9aff47178b62)
+![96](https://github.com/mireashik/oop_2sem/assets/123753819/668ff827-b26c-468d-b581-e0bf40074846)
+![97](https://github.com/mireashik/oop_2sem/assets/123753819/0f309455-97e6-477b-9591-13955697ed44)
+![98](https://github.com/mireashik/oop_2sem/assets/123753819/59cb2ff4-0db2-463a-ba9c-f3f38de5a647)
 
 
 
