@@ -56,7 +56,7 @@
 Там определены 2 класса:
 - ifstream
 - ofstream
-<br>
+
 Реализующие возможности чтения и записи информации
 
 ![4](https://github.com/mireashik/oop_2sem/assets/123753819/eab327d9-a2d2-40c4-af2d-efe57c83f921)
