@@ -302,7 +302,12 @@ public:
 pb -> f();
 ```
 
-![8](https://github.com/mireashik/oop_2sem/assets/123753819/eb1b1099-63ea-4d55-92ca-f1dd4492369e)
+### 8. В чем отличие между классом и структурой?
+Структуры (struct) служат для хранения каких-то общедоступных данных в виде публичных переменных. Для остальных сценариев используются классы (class).
+
+- Члены класса, определенного с помощью ключевого слова **class** - по умолчанию являются **private**
+- Члены класса, определенного с помощью ключевого слова **struct** / **union** - по умолчанию являются **public**
+
 ![9](https://github.com/mireashik/oop_2sem/assets/123753819/d530da4e-3715-4a28-9fdb-0fbec67cbe43)
 ![10](https://github.com/mireashik/oop_2sem/assets/123753819/379cfda9-b559-4dfc-823a-9dc0d664131a)
 ![11](https://github.com/mireashik/oop_2sem/assets/123753819/eca8c124-a6e9-4c95-8454-c8713edcacbb)
